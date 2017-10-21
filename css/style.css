@@ -8,14 +8,14 @@
 h1 {
 	color: black;
 	text-align: center;
-	background-color: rgba(102, 153, 153, 0.4);
+	background-color: rgba(102, 153, 153, 0.6);
 	margin-height:40px;
 	width
 
 }
 
 h2 {
-	background-color: rgba(102, 153, 153, 0.4);
+	background-color: rgba(102, 153, 153, 0.6);
 	width: 215px;
 }
 
@@ -29,16 +29,16 @@ body {
 }
 
 p {
-	background-color: rgba(102, 153, 153, 0.4);
+	background-color: rgba(102, 153, 153, 0.6);
 	font-weight: bold;
 }
 
 li {
-	background-color: rgba(102, 153, 153, 0.4);
+	background-color: rgba(102, 153, 153, 0.6);
 }
 
 #about {
-	background-color: rgba(102, 153, 153, 0.4);
+	background-color: rgba(102, 153, 153, 0.6);
 	width: 120px;
 
 }
@@ -50,7 +50,7 @@ li {
 }
 
 #links {
-	background-color: rgba(102, 153, 153, 0.4);
+	background-color: rgba(102, 153, 153, 0.6);
 }
 
 
