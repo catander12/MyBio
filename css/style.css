@@ -1,13 +1,62 @@
-<style>
+
+#bio{
+	width: 300px;
+	margin-left:auto;
+	margin-right:auto;
+}
 
 h1 {
-	color: red;
+	color: black;
+	text-align: center;
+	background-color: rgba(102, 153, 153, 0.4);
+	margin-height:40px;
+	width
+
+}
+
+h2 {
+	background-color: rgba(102, 153, 153, 0.4);
+	width: 215px;
+}
+
+body {
+	margin:1px 1px 1px 1px;
+	padding: 0.5cm 0.5cm 0.5cm 0.5cm;
+	background-image: url("https://verdict4u.files.wordpress.com/2017/03/wp-1488827974656.gif");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	
+}
+
+p {
+	background-color: rgba(102, 153, 153, 0.4);
+	font-weight: bold;
+}
+
+li {
+	background-color: rgba(102, 153, 153, 0.4);
+}
+
+#about {
+	background-color: rgba(102, 153, 153, 0.4);
+	width: 120px;
+
 }
 
 
+.left {
+	float: left;
+	width:70%;
+}
+
+#links {
+	background-color: rgba(102, 153, 153, 0.4);
+}
 
 
+.right {
+	padding-top: 1px;
+	float: right;
+}
 
 
-
-</style>
