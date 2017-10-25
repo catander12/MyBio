@@ -1,4 +1,9 @@
 
+* {
+	box-sizing:border-box;
+}
+
+
 #bio{
 	width: 300px;
 	margin-left:auto;
